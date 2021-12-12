@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid purple;
+    margin-top: 5%;
+}
+table {border-collapse:collapse;
+}
+table {width:2%
+}
+td {padding: 50px;
+    height: 60%;
+}
+td {background-color: green;
+    color: orange;
+}
+tr { height: 50px;
+vertical-align: middle;
+border-radius: 19px;
+text-align: center;
+}
+p {color:blueviolet}
+td:hover {background-color: burlywood;}
